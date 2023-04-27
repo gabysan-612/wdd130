@@ -1,0 +1,22 @@
+body {
+  background: radial-gradient(brown, orange, yellow);
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: yellow;
+}
+
+p {
+  color: lime;
+}
+
+.my-image {
+  width: 525px;
+  height: 375px;
+}
